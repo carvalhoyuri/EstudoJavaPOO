@@ -1,1 +1,1 @@
-# Estudos sobre progrmação orientada a objetos em Java
+# Estudos sobre programação orientada a objetos em Java
